@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/partial-claude-settings.json",
+  "name": "playpower-airbnb-clone",
+  "version": "1.0.0",
+  "description": "Claude Code agent configuration for Playpower Labs Airbnb desktop clone",
+  "environment": {
+    "NODE_ENV": "development",
+    "NEXT_TELEMETRY_DISABLED": "1"
+  },
+  "subagents": {
+    "directory": ".claude/agents",
+    "defaultAgent": "ui-visual-qa",
+    "active": [
+      "ui-visual-qa",
+      "accessibility-qa",
+      "code-quality",
+      "performance-review",
+      "architecture-review"
+    ]
+  },
+  "skills": {
+    "directory": ".claude/skills",
+    "active": [
+      "pixel-perfect-audit",
+      "scroll-lock-verification",
+      "keyboard-nav-check"
+    ]
+  },
+  "rules": [
+    "JavaScript ONLY: No TypeScript (.ts or .tsx) files are permitted anywhere in the project source.",
+    "Original reimplementation: Clean room React architecture; do not copy reference internal bundles.",
+    "Desktop-only target: Optimize for 1920x1080 primary viewport with 1440px/1536px responsive flexibility.",
+    "All overlays must maintain document scroll locking and Escape key event handling."
+  ]
+}
