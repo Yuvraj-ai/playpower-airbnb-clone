@@ -1,0 +1,605 @@
+- main [ref=f15e2]:
+  - generic [ref=f15e4]:
+    - link "Airbnb Home" [ref=f15e6] [cursor=pointer]:
+      - /url: /
+    - button "Search destinations, dates, and guests" [ref=f15e11] [cursor=pointer]:
+      - generic [ref=f15e12]:
+        - img "Property" [ref=f15e14]
+        - generic [ref=f15e15]: Anywhere
+      - generic [ref=f15e17]: Anytime
+      - generic [ref=f15e19]:
+        - generic [ref=f15e20]: Add guests
+        - button "Search" [ref=f15e21]
+    - generic [ref=f15e24]:
+      - button "Become a host" [ref=f15e25] [cursor=pointer]
+      - button "Main navigation menu" [ref=f15e26] [cursor=pointer]
+      - button "User profile" [ref=f15e31] [cursor=pointer]
+  - navigation [aria-hidden]:
+    - generic:
+      - generic:
+        - button: Photos
+        - button: Amenities
+        - button: Reviews
+        - button: Location
+      - generic:
+        - generic:
+          - generic:
+            - text: ₹28,495
+            - generic: for 5 nights
+          - generic:
+            - generic: ★ 4.95
+            - generic: · 19 reviews
+        - button: Reserve
+  - generic [ref=f15e35]:
+    - generic [ref=f15e37]:
+      - heading "Romantic Jacuzzi 1BHK Candolim | Mirashya UG10" [level=1] [ref=f15e38]
+      - generic [ref=f15e39]:
+        - button "Share this listing" [ref=f15e40] [cursor=pointer]:
+          - generic [ref=f15e44]: Share
+        - button "Save this listing" [ref=f15e45] [cursor=pointer]:
+          - generic [ref=f15e49]: Save
+    - region "Photo gallery" [ref=f15e50]:
+      - generic [ref=f15e51]:
+        - button "Open photo tour, viewing Spacious private jacuzzi terrace lounge with mood lighting" [ref=f15e52] [cursor=pointer]:
+          - img "Spacious private jacuzzi terrace lounge with mood lighting" [ref=f15e53]
+        - button "Open photo tour, viewing Open patio seating area with wicker armchairs" [ref=f15e54] [cursor=pointer]:
+          - img "Open patio seating area with wicker armchairs" [ref=f15e55]
+        - button "Open photo tour, viewing Private built-in hot tub with teak wood surrounding" [ref=f15e56] [cursor=pointer]:
+          - img "Private built-in hot tub with teak wood surrounding" [ref=f15e57]
+        - button "Open photo tour, viewing Comfortable air-conditioned bedroom with queen bed" [ref=f15e58] [cursor=pointer]:
+          - img "Comfortable air-conditioned bedroom with queen bed" [ref=f15e59]
+        - button "Open photo tour, viewing Amor De Goa residential exterior building complex" [ref=f15e60] [cursor=pointer]:
+          - img "Amor De Goa residential exterior building complex" [ref=f15e61]
+          - button "Show all photos" [ref=f15e62]
+    - generic [ref=f15e67]:
+      - generic [ref=f15e68]:
+        - generic [ref=f15e69]:
+          - generic [ref=f15e70]:
+            - heading "Entire serviced apartment in Candolim, India" [level=2] [ref=f15e71]
+            - list [ref=f15e72]:
+              - listitem [ref=f15e73]: 3 guests
+              - listitem [aria-hidden] [ref=f15e74]: ·
+              - listitem [ref=f15e75]: 1 bedroom
+              - listitem [aria-hidden] [ref=f15e76]: ·
+              - listitem [ref=f15e77]: 1 bed
+              - listitem [aria-hidden] [ref=f15e78]: ·
+              - listitem [ref=f15e79]: 1 bathroom
+          - generic [ref=f15e80]:
+            - generic [ref=f15e81]:
+              - generic [ref=f15e82]: Guestfavourite
+              - paragraph [ref=f15e86]: One of the most loved homes on Airbnb, according to guests
+            - generic [ref=f15e87]:
+              - generic [ref=f15e88]: "4.95"
+              - generic [ref=f15e102]:
+                - generic [ref=f15e103]: "19"
+                - generic [ref=f15e104]: Reviews
+          - generic [ref=f15e105]:
+            - img "Mirashya Homes" [ref=f15e107]
+            - generic [ref=f15e108]:
+              - generic [ref=f15e109]: Hosted by Mirashya Homes
+              - generic [ref=f15e110]: 2 years hosting
+        - generic [ref=f15e111]:
+          - generic [ref=f15e117]:
+            - heading "Outdoor entertainment" [level=3] [ref=f15e118]
+            - paragraph [ref=f15e119]: The pool and alfresco dining are great for summer trips.
+          - generic [ref=f15e125]:
+            - heading "Designed for staying cool" [level=3] [ref=f15e126]
+            - paragraph [ref=f15e127]: Beat the heat with the A/C and ceiling fan.
+          - generic [ref=f15e133]:
+            - heading "Self check-in" [level=3] [ref=f15e134]
+            - paragraph [ref=f15e135]: You can check in with the building staff.
+        - generic [ref=f15e136]:
+          - generic [ref=f15e138]:
+            - text: Some info has been automatically translated.
+            - button "Show original" [ref=f15e139] [cursor=pointer]
+          - generic [ref=f15e140]:
+            - paragraph [ref=f15e141]: 🌴 Plan Your Relaxing Holiday at Amor De Goa by Mirashya Homes! ✨ Stay in this cozy 1BHK in the heart of Candolim, featuring a private jacuzzi 🛁 for the perfect unwind. Enjoy high-speed WiFi 💻, Smart TV 📺, pet-friendly comfort 🐾, and stylish interiors. Just minutes from Candolim Beach 🏖️, popular cafés, restaurants, and nightlife 🍹, it's ideal for couples seeking romance, relaxation, and a touch of luxury in North Goa. ❤️🌴
+            - button "Show more" [ref=f15e142] [cursor=pointer]
+        - generic [ref=f15e146]:
+          - heading "Where you'll sleep" [level=2] [ref=f15e147]
+          - generic [ref=f15e148]:
+            - button "View photos for Bedroom" [ref=f15e149] [cursor=pointer]:
+              - img "Bedroom" [ref=f15e151]
+              - generic [ref=f15e152]:
+                - heading "Bedroom" [level=3] [ref=f15e153]
+                - paragraph [ref=f15e154]: 1 double bed
+            - button "View photos for Living room" [ref=f15e155] [cursor=pointer]:
+              - img "Living room" [ref=f15e157]
+              - generic [ref=f15e158]:
+                - heading "Living room" [level=3] [ref=f15e159]
+                - paragraph [ref=f15e160]: 1 sofa
+        - generic [ref=f15e161]:
+          - heading "What this place offers" [level=2] [ref=f15e162]
+          - generic [ref=f15e163]:
+            - generic [ref=f15e164]: Kitchen
+            - generic [ref=f15e170]: Wifi
+            - generic [ref=f15e176]: Dedicated workspace
+            - generic [ref=f15e182]: Free parking on premises
+            - generic [ref=f15e188]: Pool
+            - generic [ref=f15e194]: Hot tub
+            - generic [ref=f15e200]: Pets allowed
+            - generic [ref=f15e206]: Exterior security cameras on property
+            - generic [ref=f15e212]: Carbon monoxide alarm
+            - generic [ref=f15e218]: Smoke alarm
+          - button "Show all 44 amenities" [ref=f15e225] [cursor=pointer]
+        - generic [ref=f15e226]:
+          - generic [ref=f15e227]:
+            - heading "5 nights in Candolim" [level=2] [ref=f15e228]
+            - paragraph [ref=f15e229]: 18 Oct 2026 - 23 Oct 2026
+          - generic [ref=f15e230]:
+            - generic:
+              - button "Previous month" [ref=f15e231] [cursor=pointer]
+              - button "Next month" [ref=f15e235] [cursor=pointer]
+            - generic [ref=f15e239]:
+              - generic [ref=f15e240]:
+                - generic [ref=f15e241]: October 2026
+                - generic [ref=f15e242]:
+                  - generic [ref=f15e243]: S
+                  - generic [ref=f15e244]: M
+                  - generic [ref=f15e245]: T
+                  - generic [ref=f15e246]: W
+                  - generic [ref=f15e247]: T
+                  - generic [ref=f15e248]: F
+                  - generic [ref=f15e249]: S
+                - generic [ref=f15e250]:
+                  - button "1 October 2026" [ref=f15e256] [cursor=pointer]: "1"
+                  - button "2 October 2026" [ref=f15e258] [cursor=pointer]: "2"
+                  - button "3 October 2026" [ref=f15e260] [cursor=pointer]: "3"
+                  - button "4 October 2026" [ref=f15e262] [cursor=pointer]: "4"
+                  - button "5 October 2026" [ref=f15e264] [cursor=pointer]: "5"
+                  - button "6 October 2026" [ref=f15e266] [cursor=pointer]: "6"
+                  - button "7 October 2026" [ref=f15e268] [cursor=pointer]: "7"
+                  - button "8 October 2026" [ref=f15e270] [cursor=pointer]: "8"
+                  - button "9 October 2026" [ref=f15e272] [cursor=pointer]: "9"
+                  - button "10 October 2026" [ref=f15e274] [cursor=pointer]: "10"
+                  - button "11 October 2026" [ref=f15e276] [cursor=pointer]: "11"
+                  - button "12 October 2026" [ref=f15e278] [cursor=pointer]: "12"
+                  - button "13 October 2026" [ref=f15e280] [cursor=pointer]: "13"
+                  - button "14 October 2026" [ref=f15e282] [cursor=pointer]: "14"
+                  - button "15 October 2026" [ref=f15e284] [cursor=pointer]: "15"
+                  - button "16 October 2026" [ref=f15e286] [cursor=pointer]: "16"
+                  - button "17 October 2026" [ref=f15e288] [cursor=pointer]: "17"
+                  - button "18 October 2026" [ref=f15e290] [cursor=pointer]: "18"
+                  - button "19 October 2026" [ref=f15e292] [cursor=pointer]: "19"
+                  - button "20 October 2026" [ref=f15e294] [cursor=pointer]: "20"
+                  - button "21 October 2026" [ref=f15e296] [cursor=pointer]: "21"
+                  - button "22 October 2026" [ref=f15e298] [cursor=pointer]: "22"
+                  - button "23 October 2026" [ref=f15e300] [cursor=pointer]: "23"
+                  - button "24 October 2026" [ref=f15e302] [cursor=pointer]: "24"
+                  - button "25 October 2026" [ref=f15e304] [cursor=pointer]: "25"
+                  - button "26 October 2026" [ref=f15e306] [cursor=pointer]: "26"
+                  - button "27 October 2026" [ref=f15e308] [cursor=pointer]: "27"
+                  - button "28 October 2026" [ref=f15e310] [cursor=pointer]: "28"
+                  - button "29 October 2026" [ref=f15e312] [cursor=pointer]: "29"
+                  - button "30 October 2026" [ref=f15e314] [cursor=pointer]: "30"
+                  - button "31 October 2026" [ref=f15e316] [cursor=pointer]: "31"
+              - generic [ref=f15e317]:
+                - generic [ref=f15e318]: November 2026
+                - generic [ref=f15e319]:
+                  - generic [ref=f15e320]: S
+                  - generic [ref=f15e321]: M
+                  - generic [ref=f15e322]: T
+                  - generic [ref=f15e323]: W
+                  - generic [ref=f15e324]: T
+                  - generic [ref=f15e325]: F
+                  - generic [ref=f15e326]: S
+                - generic [ref=f15e327]:
+                  - button "1 November 2026" [ref=f15e329] [cursor=pointer]: "1"
+                  - button "2 November 2026" [ref=f15e331] [cursor=pointer]: "2"
+                  - button "3 November 2026" [ref=f15e333] [cursor=pointer]: "3"
+                  - button "4 November 2026" [ref=f15e335] [cursor=pointer]: "4"
+                  - button "5 November 2026" [ref=f15e337] [cursor=pointer]: "5"
+                  - button "6 November 2026" [ref=f15e339] [cursor=pointer]: "6"
+                  - button "7 November 2026" [ref=f15e341] [cursor=pointer]: "7"
+                  - button "8 November 2026" [ref=f15e343] [cursor=pointer]: "8"
+                  - button "9 November 2026" [ref=f15e345] [cursor=pointer]: "9"
+                  - button "10 November 2026" [ref=f15e347] [cursor=pointer]: "10"
+                  - button "11 November 2026" [ref=f15e349] [cursor=pointer]: "11"
+                  - button "12 November 2026" [ref=f15e351] [cursor=pointer]: "12"
+                  - button "13 November 2026" [ref=f15e353] [cursor=pointer]: "13"
+                  - button "14 November 2026" [ref=f15e355] [cursor=pointer]: "14"
+                  - button "15 November 2026" [ref=f15e357] [cursor=pointer]: "15"
+                  - button "16 November 2026" [ref=f15e359] [cursor=pointer]: "16"
+                  - button "17 November 2026" [ref=f15e361] [cursor=pointer]: "17"
+                  - button "18 November 2026" [ref=f15e363] [cursor=pointer]: "18"
+                  - button "19 November 2026" [ref=f15e365] [cursor=pointer]: "19"
+                  - button "20 November 2026" [ref=f15e367] [cursor=pointer]: "20"
+                  - button "21 November 2026" [ref=f15e369] [cursor=pointer]: "21"
+                  - button "22 November 2026" [ref=f15e371] [cursor=pointer]: "22"
+                  - button "23 November 2026" [ref=f15e373] [cursor=pointer]: "23"
+                  - button "24 November 2026" [ref=f15e375] [cursor=pointer]: "24"
+                  - button "25 November 2026" [ref=f15e377] [cursor=pointer]: "25"
+                  - button "26 November 2026" [ref=f15e379] [cursor=pointer]: "26"
+                  - button "27 November 2026" [ref=f15e381] [cursor=pointer]: "27"
+                  - button "28 November 2026" [ref=f15e383] [cursor=pointer]: "28"
+                  - button "29 November 2026" [ref=f15e385] [cursor=pointer]: "29"
+                  - button "30 November 2026" [ref=f15e387] [cursor=pointer]: "30"
+            - generic [ref=f15e388]:
+              - button "Keyboard navigation assistance" [ref=f15e389] [cursor=pointer]
+              - button "Clear dates" [ref=f15e394] [cursor=pointer]
+      - complementary "Reservation details" [ref=f15e395]:
+        - generic [ref=f15e396]:
+          - generic [ref=f15e400]:
+            - generic [ref=f15e401]: Get 10% off your next stay.
+            - button "Terms apply" [ref=f15e402] [cursor=pointer]
+          - button "Claim" [ref=f15e403] [cursor=pointer]
+        - generic [ref=f15e404]:
+          - generic [ref=f15e405]:
+            - text: ₹28,499
+            - generic [ref=f15e406]: for 5 nights
+          - generic [ref=f15e407]:
+            - generic [ref=f15e408] [cursor=pointer]:
+              - generic [ref=f15e409]:
+                - generic [ref=f15e410]: CHECK-IN
+                - generic [ref=f15e411]: 10/18/2026
+              - generic [ref=f15e412]:
+                - generic [ref=f15e413]: CHECKOUT
+                - generic [ref=f15e414]: 10/23/2026
+            - button "GUESTS 2 guests" [ref=f15e416] [cursor=pointer]:
+              - generic [ref=f15e417]:
+                - generic [ref=f15e418]: GUESTS
+                - generic [ref=f15e419]: 2 guests
+          - generic [ref=f15e423]: Free cancellation before 17 October
+          - button "Reserve" [ref=f15e424] [cursor=pointer]
+          - generic [ref=f15e425]: You won't be charged yet
+        - button "Report this listing" [ref=f15e427] [cursor=pointer]
+    - generic [ref=f15e432]:
+      - generic [ref=f15e433]:
+        - generic [ref=f15e434]: "4.95"
+        - generic [ref=f15e438]: Guest favourite
+        - paragraph [ref=f15e439]: This home is a guest favourite based on ratings, reviews and reliability
+        - button "How reviews work" [ref=f15e440] [cursor=pointer]
+      - generic [ref=f15e441]:
+        - generic [ref=f15e442]:
+          - generic [ref=f15e443]: Overall rating
+          - generic [ref=f15e444]:
+            - generic [ref=f15e445]: "5"
+            - generic [ref=f15e449]: "4"
+            - generic [ref=f15e453]: "3"
+            - generic [ref=f15e456]: "2"
+            - generic [ref=f15e459]: "1"
+        - generic [ref=f15e463]:
+          - generic [ref=f15e464]: Cleanliness
+          - generic [ref=f15e465]: "5.0"
+        - generic [ref=f15e471]:
+          - generic [ref=f15e472]: Accuracy
+          - generic [ref=f15e473]: "5.0"
+        - generic [ref=f15e479]:
+          - generic [ref=f15e480]: Check-in
+          - generic [ref=f15e481]: "5.0"
+        - generic [ref=f15e487]:
+          - generic [ref=f15e488]: Communication
+          - generic [ref=f15e489]: "5.0"
+        - generic [ref=f15e495]:
+          - generic [ref=f15e496]: Location
+          - generic [ref=f15e497]: "4.8"
+        - generic [ref=f15e503]:
+          - generic [ref=f15e504]: Value
+          - generic [ref=f15e505]: "4.8"
+      - generic [ref=f15e510]:
+        - button "Comfort 6" [ref=f15e511] [cursor=pointer]:
+          - generic [ref=f15e514]: Comfort
+          - generic [ref=f15e515]: "6"
+        - button "Accuracy 5" [ref=f15e516] [cursor=pointer]:
+          - generic [ref=f15e519]: Accuracy
+          - generic [ref=f15e520]: "5"
+        - button "Hot tub 5" [ref=f15e521] [cursor=pointer]:
+          - generic [ref=f15e524]: Hot tub
+          - generic [ref=f15e525]: "5"
+        - button "Condition 4" [ref=f15e526] [cursor=pointer]:
+          - generic [ref=f15e529]: Condition
+          - generic [ref=f15e530]: "4"
+        - button "Hospitality 8" [ref=f15e531] [cursor=pointer]:
+          - generic [ref=f15e534]: Hospitality
+          - generic [ref=f15e535]: "8"
+        - button "Cleanliness 4" [ref=f15e536] [cursor=pointer]:
+          - generic [ref=f15e539]: Cleanliness
+          - generic [ref=f15e540]: "4"
+        - button "Amenities 2" [ref=f15e541] [cursor=pointer]:
+          - generic [ref=f15e544]: Amenities
+          - generic [ref=f15e545]: "2"
+        - button "Location 3" [ref=f15e546] [cursor=pointer]:
+          - generic [ref=f15e549]: Location
+          - generic [ref=f15e550]: "3"
+      - generic [ref=f15e551]:
+        - article [ref=f15e552]:
+          - generic [ref=f15e553]:
+            - generic [ref=f15e554]: A
+            - generic [ref=f15e555]:
+              - generic [ref=f15e556]: Amit
+              - generic [ref=f15e557]: 2 months on Airbnb
+          - generic [ref=f15e558]:
+            - generic [ref=f15e570]: ·
+            - generic [ref=f15e571]: 1 week ago
+          - paragraph [ref=f15e573]: Very helpful and responsive team. Safe and peaceful stay. loved everything about the property.
+        - article [ref=f15e574]:
+          - generic [ref=f15e575]:
+            - img "Aheesh" [ref=f15e577]
+            - generic [ref=f15e578]:
+              - generic [ref=f15e579]: Aheesh
+              - generic [ref=f15e580]: 3 years on Airbnb
+          - generic [ref=f15e581]:
+            - generic [ref=f15e593]: ·
+            - generic [ref=f15e594]: 2 weeks ago
+          - generic [ref=f15e595]:
+            - paragraph [ref=f15e596]: We had a wonderful stay. The apartment was clean, comfortable, and exactly as shown in the photos. The host was very responsive and helpful throughout our stay. We would definitely recommend this place and would love to stay here again.
+            - button "Show more" [ref=f15e597] [cursor=pointer]
+        - article [ref=f15e598]:
+          - generic [ref=f15e599]:
+            - img "Samiksha" [ref=f15e601]
+            - generic [ref=f15e602]:
+              - generic [ref=f15e603]: Samiksha
+              - generic [ref=f15e604]: 8 months on Airbnb
+          - generic [ref=f15e605]:
+            - generic [ref=f15e617]: ·
+            - generic [ref=f15e618]: May 2026
+          - paragraph [ref=f15e620]: the host nitish was really great help
+        - article [ref=f15e621]:
+          - generic [ref=f15e622]:
+            - generic [ref=f15e623]: V
+            - generic [ref=f15e624]:
+              - generic [ref=f15e625]: Vedant
+              - generic [ref=f15e626]: 4 years on Airbnb
+          - generic [ref=f15e627]:
+            - generic [ref=f15e639]: ·
+            - generic [ref=f15e640]: May 2026
+          - generic [ref=f15e641]:
+            - paragraph [ref=f15e642]: We had an amazing stay at this property in Goa! The entire home was spotless and exceptionally well-maintained, making us feel comfortable from the moment we arrived. The cleanliness standards were truly impressive, with every corner of the house looking fresh and pristine.
+            - button "Show more" [ref=f15e643] [cursor=pointer]
+        - article [ref=f15e644]:
+          - generic [ref=f15e645]:
+            - img "Vaibhav S" [ref=f15e647]
+            - generic [ref=f15e648]:
+              - generic [ref=f15e649]: Vaibhav S
+              - generic [ref=f15e650]: 3 years on Airbnb
+          - generic [ref=f15e651]:
+            - generic [ref=f15e663]: ·
+            - generic [ref=f15e664]: May 2026
+          - paragraph [ref=f15e666]: Great great experience living out there , can't expect more , will always look for it in the future and will recommend my friends too.
+        - article [ref=f15e667]:
+          - generic [ref=f15e668]:
+            - img "Mohd" [ref=f15e670]
+            - generic [ref=f15e671]:
+              - generic [ref=f15e672]: Mohd
+              - generic [ref=f15e673]: 5 years on Airbnb
+          - generic [ref=f15e674]:
+            - generic [ref=f15e686]: ·
+            - generic [ref=f15e687]: May 2026
+          - paragraph [ref=f15e689]: Great place. Exactly as described in the listing.
+      - button "Show all 19 reviews" [ref=f15e691] [cursor=pointer]
+    - generic [ref=f15e692]:
+      - generic [ref=f15e693]:
+        - heading "Where you'll be" [level=2] [ref=f15e694]
+        - paragraph [ref=f15e695]: Candolim, Goa, India
+      - generic [ref=f15e696]:
+        - generic [ref=f15e705] [cursor=pointer]
+        - button "Search map" [ref=f15e709] [cursor=pointer]
+        - generic [ref=f15e714]:
+          - button "Zoom in" [ref=f15e715] [cursor=pointer]: +
+          - button "Zoom out" [ref=f15e716] [cursor=pointer]: −
+      - paragraph [ref=f15e717]: Exact location will be provided after booking.
+      - generic [ref=f15e718]:
+        - heading "Neighbourhood highlights" [level=3] [ref=f15e719]
+        - paragraph [ref=f15e720]: Located in the heart of Candolim, Amor de Goa offers a peaceful stay with easy access to beaches, cafés, and popular attractions.
+        - button "Show more" [ref=f15e721] [cursor=pointer]
+    - generic [ref=f15e725]:
+      - heading "Meet your host" [level=2] [ref=f15e726]
+      - generic [ref=f15e727]:
+        - generic [ref=f15e728]:
+          - generic [ref=f15e729]:
+            - generic [ref=f15e730]:
+              - img "Mirashya Homes" [ref=f15e733]
+              - generic [ref=f15e737]:
+                - heading "Mirashya Homes" [level=3] [ref=f15e738]
+                - text: Host
+            - generic [ref=f15e739]:
+              - generic [ref=f15e740]:
+                - generic [ref=f15e741]: 1,463
+                - generic [ref=f15e742]: Reviews
+              - generic [ref=f15e743]:
+                - generic [ref=f15e744]:
+                  - generic [ref=f15e745]: "4.68"
+                  - generic [ref=f15e746]: ★
+                - generic [ref=f15e747]: Rating
+              - generic [ref=f15e748]:
+                - generic [ref=f15e749]: "2"
+                - generic [ref=f15e750]: Years hosting
+          - generic [ref=f15e751]:
+            - generic [ref=f15e752]: Born in the 80s
+            - generic [ref=f15e756]: "Where I went to school: NICMAR GOA"
+        - generic [ref=f15e760]:
+          - generic [ref=f15e761]:
+            - heading "Co-Hosts" [level=3] [ref=f15e762]
+            - generic [ref=f15e763]:
+              - generic [ref=f15e764]:
+                - img "Sharath" [ref=f15e766]
+                - generic [ref=f15e767]: Sharath
+              - generic [ref=f15e768]:
+                - img "Aman Dev Pahwa" [ref=f15e770]
+                - generic [ref=f15e771]: Aman Dev Pahwa
+              - generic [ref=f15e772]:
+                - img "Maria Karen Priyanka" [ref=f15e774]
+                - generic [ref=f15e775]: Maria Karen Priyanka
+              - generic [ref=f15e776]:
+                - img "Simran" [ref=f15e778]
+                - generic [ref=f15e779]: Simran
+              - generic [ref=f15e780]:
+                - img "Pallavi" [ref=f15e782]
+                - generic [ref=f15e783]: Pallavi
+              - generic [ref=f15e784]:
+                - img "Sanyukta" [ref=f15e786]
+                - generic [ref=f15e787]: Sanyukta
+              - generic [ref=f15e788]:
+                - generic [ref=f15e789]: S
+                - generic [ref=f15e790]: Shruti
+              - generic [ref=f15e791]:
+                - generic [ref=f15e792]: A
+                - generic [ref=f15e793]: Amisha
+          - generic [ref=f15e794]:
+            - heading "Host details" [level=3] [ref=f15e795]
+            - generic [ref=f15e796]:
+              - paragraph [ref=f15e797]: "Response rate: 100%"
+              - paragraph [ref=f15e798]: Responds responds within an hour
+            - button "Message host" [ref=f15e800] [cursor=pointer]
+            - generic [ref=f15e801]: To help protect your payment, always use Airbnb to send money and communicate with hosts.
+    - generic [ref=f15e805]:
+      - heading "Things to know" [level=2] [ref=f15e806]
+      - generic [ref=f15e807]:
+        - generic [ref=f15e808]:
+          - heading "Cancellation policy" [level=3] [ref=f15e813]
+          - paragraph [ref=f15e814]: Free cancellation before 17 October. Cancel before check-in on 18 October for a partial refund.
+          - paragraph [ref=f15e815]: Review this host's full policy for details.
+          - button "Learn more" [ref=f15e816] [cursor=pointer]
+        - generic [ref=f15e817]:
+          - heading "House rules" [level=3] [ref=f15e822]
+          - list [ref=f15e823]:
+            - listitem [ref=f15e824]: Check-in after 2:00 pm
+            - listitem [ref=f15e825]: Checkout before 11:00 am
+            - listitem [ref=f15e826]: 3 guests maximum
+          - button "Learn more" [ref=f15e827] [cursor=pointer]
+        - generic [ref=f15e828]:
+          - heading "Safety & property" [level=3] [ref=f15e833]
+          - list [ref=f15e834]:
+            - listitem [ref=f15e835]: Carbon monoxide alarm not reported
+            - listitem [ref=f15e836]: Smoke alarm not reported
+            - listitem [ref=f15e837]: Exterior security cameras on property
+          - button "Learn more" [ref=f15e838] [cursor=pointer]
+    - generic [ref=f15e839]:
+      - generic [ref=f15e840]:
+        - heading "More stays nearby" [level=2] [ref=f15e841]
+        - generic [ref=f15e842]:
+          - generic [ref=f15e843]: 1 / 2
+          - generic [ref=f15e844]:
+            - button "Previous stays" [disabled] [ref=f15e845]
+            - button "Next stays" [ref=f15e848] [cursor=pointer]
+      - generic "Scrollable list of nearby stays" [ref=f15e851]:
+        - generic [ref=f15e852] [cursor=pointer]:
+          - img "Beautiful Studio with a view to die for" [ref=f15e854]
+          - generic [ref=f15e855]:
+            - heading "Beautiful Studio with a view to die for" [level=3] [ref=f15e856]
+            - generic [ref=f15e857]:
+              - generic [ref=f15e858]: ₹23,600
+              - generic [ref=f15e859]: ★ 4.91
+        - generic [ref=f15e860] [cursor=pointer]:
+          - img "NAQAB - 1bhk with private pool" [ref=f15e862]
+          - generic [ref=f15e863]:
+            - heading "NAQAB - 1bhk with private pool" [level=3] [ref=f15e864]
+            - generic [ref=f15e865]:
+              - generic [ref=f15e866]: ₹42,218
+              - generic [ref=f15e867]: ★ 4.95
+        - generic [ref=f15e868] [cursor=pointer]:
+          - img "Greentique Luxury Flat with plunge pool, Calangute" [ref=f15e870]
+          - generic [ref=f15e871]:
+            - heading "Greentique Luxury Flat with plunge pool, Calangute" [level=3] [ref=f15e872]
+            - generic [ref=f15e873]:
+              - generic [ref=f15e874]: ₹44,506
+              - generic [ref=f15e875]: ★ 4.94
+        - generic [ref=f15e876] [cursor=pointer]:
+          - img "The Tropical Studio | 5 mins to Beach" [ref=f15e878]
+          - generic [ref=f15e879]:
+            - heading "The Tropical Studio | 5 mins to Beach" [level=3] [ref=f15e880]
+            - generic [ref=f15e881]:
+              - generic [ref=f15e882]: ₹22,824
+              - generic [ref=f15e883]: ★ 4.96
+        - generic [ref=f15e884] [cursor=pointer]:
+          - img "Luxury Casa Bella 1BHK with plunge pool, Calangute" [ref=f15e886]
+          - generic [ref=f15e887]:
+            - heading "Luxury Casa Bella 1BHK with plunge pool, Calangute" [level=3] [ref=f15e888]
+            - generic [ref=f15e889]:
+              - generic [ref=f15e890]: ₹39,942
+              - generic [ref=f15e891]: ★ 4.95
+        - generic [ref=f15e892] [cursor=pointer]:
+          - img "Kanso by Earthen Window | Jacuzzi | Terrace | Pool" [ref=f15e894]
+          - generic [ref=f15e895]:
+            - heading "Kanso by Earthen Window | Jacuzzi | Terrace | Pool" [level=3] [ref=f15e896]
+            - generic [ref=f15e897]:
+              - generic [ref=f15e898]: ₹45,648
+              - generic [ref=f15e899]: ★ 5.0
+        - generic [ref=f15e900] [cursor=pointer]:
+          - img "Luxury Apt | Private Pool | 6 Mins from Beach" [ref=f15e902]
+          - generic [ref=f15e903]:
+            - heading "Luxury Apt | Private Pool | 6 Mins from Beach" [level=3] [ref=f15e904]
+            - generic [ref=f15e905]:
+              - generic [ref=f15e906]: ₹48,786
+              - generic [ref=f15e907]: ★ 4.93
+        - generic [ref=f15e908] [cursor=pointer]:
+          - img "Serendipity Cottage - Calm Stay in Calangute-Baga." [ref=f15e910]
+          - generic [ref=f15e911]:
+            - heading "Serendipity Cottage - Calm Stay in Calangute-Baga." [level=3] [ref=f15e912]
+            - generic [ref=f15e913]:
+              - generic [ref=f15e914]: ₹22,824
+              - generic [ref=f15e915]: ★ 4.92
+  - generic [ref=f15e917]:
+    - generic [ref=f15e918]:
+      - generic [ref=f15e919]:
+        - heading "Support" [level=4] [ref=f15e920]
+        - list [ref=f15e921]:
+          - listitem [ref=f15e922]:
+            - link "Help Centre" [ref=f15e923] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e924]:
+            - link "AirCover" [ref=f15e925] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e926]:
+            - link "Anti-discrimination" [ref=f15e927] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e928]:
+            - link "Disability support" [ref=f15e929] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e930]:
+            - link "Cancellation options" [ref=f15e931] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f15e932]:
+        - heading "Hosting" [level=4] [ref=f15e933]
+        - list [ref=f15e934]:
+          - listitem [ref=f15e935]:
+            - link "Airbnb your home" [ref=f15e936] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e937]:
+            - link "AirCover for Hosts" [ref=f15e938] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e939]:
+            - link "Hosting resources" [ref=f15e940] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e941]:
+            - link "Community forum" [ref=f15e942] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e943]:
+            - link "Hosting responsibly" [ref=f15e944] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f15e945]:
+        - heading "Airbnb" [level=4] [ref=f15e946]
+        - list [ref=f15e947]:
+          - listitem [ref=f15e948]:
+            - link "Newsroom" [ref=f15e949] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e950]:
+            - link "New features" [ref=f15e951] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e952]:
+            - link "Careers" [ref=f15e953] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e954]:
+            - link "Investors" [ref=f15e955] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f15e956]:
+            - link "Airbnb.org emergency stays" [ref=f15e957] [cursor=pointer]:
+              - /url: "#"
+    - generic [ref=f15e958]:
+      - generic [ref=f15e959]:
+        - generic [ref=f15e960]: © 2026 Airbnb, Inc.
+        - generic [aria-hidden] [ref=f15e961]: ·
+        - link "Privacy" [ref=f15e962] [cursor=pointer]:
+          - /url: "#"
+        - generic [aria-hidden] [ref=f15e963]: ·
+        - link "Terms" [ref=f15e964] [cursor=pointer]:
+          - /url: "#"
+        - generic [aria-hidden] [ref=f15e965]: ·
+        - link "Sitemap" [ref=f15e966] [cursor=pointer]:
+          - /url: "#"
+        - generic [aria-hidden] [ref=f15e967]: ·
+        - link "Company details" [ref=f15e968] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f15e969]:
+        - generic [ref=f15e970] [cursor=pointer]: English (IN)
+        - generic [ref=f15e975] [cursor=pointer]: ₹ INR
